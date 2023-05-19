@@ -40,3 +40,4 @@ sudo chmod +x /usr/local/bin/docker-compose
 # install nodejs
 sudo curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt install -y nodejs
+sudo apt update
